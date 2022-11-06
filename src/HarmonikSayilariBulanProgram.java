@@ -5,7 +5,7 @@ public class HarmonikSayilariBulanProgram {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Pozitif bir tam sayi giriniz: ");
+        System.out.print("Pozitif bir tam sayi giriniz : ");
         int sayi = input.nextInt();
 
         double toplam = 0;

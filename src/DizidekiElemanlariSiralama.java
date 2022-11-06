@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DizidekiElamanlariSiralama {
+public class DizidekiElemanlariSiralama {
 
     public static void main(String[] args) {
 
